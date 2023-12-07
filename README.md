@@ -1,1 +1,1 @@
- Quant repository : A hub for various projects related to quantitative analysis in finance.
+ Quant repository : A hub for various projects related to quantitative finance.
